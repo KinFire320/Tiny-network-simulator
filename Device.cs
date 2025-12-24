@@ -116,7 +116,7 @@ class NetworkSwitch(Vector2 position, Color color) : Device(position, color)
 
 		Connections.ForEach((device) => DrawLineEx(Position, Position - (Position - device.Position) / 2f, 5, Color));
 		Rectangle rect = new(Position - new Vector2(40, 15), new(80, 30));
-		DrawRectangleRec(rect, Color.Red);
+		DrawRectangleRec(rect, Color);
 		Rectangle rect1 = new(rect.Position + new Vector2(5, 5), new Vector2(20));
 		DrawRectangleRec(rect1, Fade(Color.White, .15f));
 		rect1.Position += new Vector2(25, 0);
