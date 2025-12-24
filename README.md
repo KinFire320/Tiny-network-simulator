@@ -1,7 +1,9 @@
 # 🛰️ C# Network Simulator (Raylib)
 A modular network simulation engine built with C# and Raylib.
 Design topologies, connect devices, and simulate packet routing in real time.
+
 ![output](https://github.com/user-attachments/assets/5e676133-d2f5-4979-9e5d-92b247fa7ae5)
+
 ## 📋 Note
 This project started as an assignment for a computer networks course (with some later modifications).
 We were given the choice between using OMNeT++ or building a simple network simulation in any programming language.
