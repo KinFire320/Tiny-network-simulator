@@ -1,0 +1,9 @@
+/.editorconfig
+/.vscode
+/Connection.cs
+/bin
+/obj
+/open in code.sh
+/publish to windows.sh
+/publish.sh
+/start.sh

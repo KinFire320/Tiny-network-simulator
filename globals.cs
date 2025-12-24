@@ -1,0 +1,4 @@
+global using Raylib_cs;
+global using System.Numerics;
+global using static Raylib_cs.Raymath;
+global using static Raylib_cs.Raylib;
